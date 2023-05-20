@@ -19,9 +19,7 @@ html {
     color: white;
     padding-;
   }
-  .z{
-    border: 2px solid greenyellow;
-  }
+ 
   
     
     
@@ -32,7 +30,7 @@ html {
     background-color: aliceblue;
     width: 600px;
     padding: 20px;
-    border: 2px solid red;
+    
   }
   .registration-from {
     margin-top: 20px;
