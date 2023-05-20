@@ -1,0 +1,73 @@
+html {
+    scroll-behavior: smooth;
+  }
+  body {
+    margin: 0px;
+    background-color:white;
+  }
+  .topbar {
+    position: fixed;
+    border: 2px solid red;
+    width: 100%;
+    height:;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: white;
+  }
+  .b{
+    color: white;
+    padding-;
+  }
+  .z{
+    border: 2px solid greenyellow;
+  }
+  
+    
+    
+
+  .books-details {
+    margin-top: 50px;
+    margin-left: 30%;
+    background-color: aliceblue;
+    width: 600px;
+    padding: 20px;
+    border: 2px solid red;
+  }
+  .registration-from {
+    margin-top: 20px;
+    margin-left: 30%;
+    width: 600px;
+    background-color: aliceblue;
+    padding: 20px;
+  }
+  input[type="text"],
+  input[type="date"],
+  input[type="date"],
+  input[type="number"],
+  input[type="email"],
+  input[type="password"] {
+    width: 99%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  input:hover {
+    border-color:white;
+  }
+  input[type="submit"] {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+  }
+  s {
+    scroll-behavior: smooth;
+  }
+  .topbar td:hover {
+    /* background-color: purple; */
+  }
+  a.a {
+    /* text-decoration: none; */
+    color: white;
+  }
